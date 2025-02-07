@@ -15,7 +15,10 @@ https://drive.google.com/drive/folders/1Pi7LbrjlkhIb_rtimUTfZ_NVrELATHeJ?usp=sha
 ### Ejercicio 3 Soldadura
 #### Evidencias Valeria
 ![Image](https://github.com/user-attachments/assets/ec9d5be8-0457-4a24-a259-d81607858572)
+
 #### Evidencias Paola
+![Image](https://github.com/user-attachments/assets/6c0fff7b-0dce-43c7-83bc-a3021088c128)
+![Image](https://github.com/user-attachments/assets/592d5c19-e937-4467-9048-19476bd017dd)
 
 ### Ejercicio 4 (Figura 2D o 3D soldada)
 #### Rueda de la fortuna
