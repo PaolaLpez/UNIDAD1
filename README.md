@@ -17,10 +17,10 @@ https://drive.google.com/drive/folders/1Pi7LbrjlkhIb_rtimUTfZ_NVrELATHeJ?usp=sha
 https://drive.google.com/drive/folders/1qt2wssPe-UQlca00bAa9SVyfJcRqAkn7?usp=sharing
 
 ### Ejercicio 3: Soldadura
-#### Evidencias Valeria
+#### Evidencias Valeria Guadalupe
 ![Image](https://github.com/user-attachments/assets/ec9d5be8-0457-4a24-a259-d81607858572)
 
-#### Evidencias Paola
+#### Evidencias Paola Jaqueline
 ##### Fueron 3 placas 
 ![Image](https://github.com/user-attachments/assets/6c0fff7b-0dce-43c7-83bc-a3021088c128)
 ![Image](https://github.com/user-attachments/assets/592d5c19-e937-4467-9048-19476bd017dd)
