@@ -12,6 +12,9 @@ https://drive.google.com/drive/folders/1Pi7LbrjlkhIb_rtimUTfZ_NVrELATHeJ?usp=sha
 
 ### Ejercicio 2: Control de Actuadores
 
+### Videos Demostrativos
+https://drive.google.com/drive/folders/1qt2wssPe-UQlca00bAa9SVyfJcRqAkn7?usp=sharing
+
 ### Ejercicio 3 Soldadura
 #### Evidencias Valeria
 ![Image](https://github.com/user-attachments/assets/ec9d5be8-0457-4a24-a259-d81607858572)
