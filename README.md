@@ -16,5 +16,6 @@ https://drive.google.com/drive/folders/1Pi7LbrjlkhIb_rtimUTfZ_NVrELATHeJ?usp=sha
 #### Evidencias Valeria
 #### Evidencias Paola
 
-### Ejercicio 4 (Figura 2D o 3D soldada
+### Ejercicio 4 (Figura 2D o 3D soldada)
 #### Rueda de la fortuna
+![Image](https://github.com/user-attachments/assets/582094c6-e0b2-4fdb-9d5f-662387133321)
