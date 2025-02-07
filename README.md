@@ -8,3 +8,13 @@ https://drive.google.com/drive/folders/1LFqxValPpmx4HmIMlcRLK2HG8NC2Rdux?usp=dri
 https://drive.google.com/drive/folders/1Pi7LbrjlkhIb_rtimUTfZ_NVrELATHeJ?usp=sharing
 
 # PARTE PRÁCTICA 
+### Ejercicio 1: Almacenamiento de Datos
+
+### Ejercicio 2: Control de Actuadores
+
+### Ejercicios 3 y 4: Soldadura
+#### Evidencias Valeria
+#### Evidencias Paola
+
+### Ejercicio 4 (Figura 2D o 3D soldada
+#### Rueda de la fortuna
