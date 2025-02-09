@@ -3,7 +3,7 @@
 # PARTE TEÓRICA
 #### Examenes
 ### Evidencias de Valeria Guadalupe Calvillo Mendoza
-https://drive.google.com/drive/folders/1LFqxValPpmx4HmIMlcRLK2HG8NC2Rdux?usp=drive_link
+
 https://docs.google.com/document/d/1w-oLG7hnqC8HELsWIx1rPgt_DYcRtt8xb9BuvqkXzYU/edit?usp=sharing
 
 ### Evidencias de Paola Jaqueline López Mata
