@@ -14,6 +14,9 @@ https://drive.google.com/drive/folders/1Pi7LbrjlkhIb_rtimUTfZ_NVrELATHeJ?usp=sha
 
 ### Ejercicio 2: Control de Actuadores
 
+### Capturas de Ejercicios
+
+https://docs.google.com/document/d/1ON1T5Gf-TJK4CAZLDf8OgKRe3OUQn89kgmP2lN85qfM/edit?usp=sharing
 ### Videos Demostrativos
 https://drive.google.com/drive/folders/1qt2wssPe-UQlca00bAa9SVyfJcRqAkn7?usp=sharing
 
